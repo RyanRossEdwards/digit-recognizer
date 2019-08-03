@@ -1,4 +1,4 @@
-# digit-recognizer
+# Digit Recognizer
 This is a fun kaggle competition to learn about machine vision!
 
 https://www.kaggle.com/c/digit-recognizer
